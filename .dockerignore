@@ -1,0 +1,9 @@
+# folders
+/.github
+/.venv
+/docs
+/test
+
+# files
+/Dockerfile
+/.tool-versions
